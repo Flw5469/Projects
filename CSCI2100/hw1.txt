@@ -1,0 +1,32 @@
+Q1
+Accept a line.
+Use a stack. Read character from the line one by one.
+If it is open, push it in stack.
+If it is close, pop one from stack and compare them,if they are different then count as one more action need to be done.If fail to pop any , it means it is impossible for a perfect blanket.
+At last if something is left in stack, it means impossible.
+
+
+
+Q2
+Read numbers into a array that set by total number of customers.
+Keep looping the array from 1 to n, decrease each of the customer's need by m.
+If customer's need is originally higher than zero, but lower or equal to zero after decrease, count one more person is finished.
+Until the count equals to total number of customers, output the last position served.
+
+
+
+
+
+Q3
+The Compare process is:
+"Using 4 hash tables containing ALL  prefix,suffix of input array 1 and all middle parts of input array 1 and 2.
+Compare ALL input array 2's suffix and prefix with the tables
+Compare the whole input array 1 and 2 with ALL the middle parts to check for one string containing another."
+Compare array 1,2.
+If array 1 and 2 can be combined then combine them and compare the new array with array 3.
+If they can't, merge them as 12 and 21 and compare both of them with array 3.
+If any array can be combined with array 3 then cocmbine them.
+If no just add them together.
+Output the shortest length of multiple array OR output the length of the only combined array.
+
+

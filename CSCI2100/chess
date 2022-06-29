@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main(){
+int red,black;
+while(1){
+printf("Enter your number, black:")
+scanf("%d",black);
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+}
