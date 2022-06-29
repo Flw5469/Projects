@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\programming\ICPC2020Q2\ICPC2020Q2\Source.cpp(192,7): warning C4101: 'nodedifferent': 未參考的區域變數
+D:\programming\ICPC2020Q2\ICPC2020Q2\Source.cpp(191,7): warning C4101: 'returnedvalue': 未參考的區域變數
+  ICPC2020Q2.vcxproj -> D:\programming\ICPC2020Q2\Debug\ICPC2020Q2.exe

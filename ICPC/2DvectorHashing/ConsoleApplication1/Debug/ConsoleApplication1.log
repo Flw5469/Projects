@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\tonyf\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,71): error C4146: 一元減號運算子套用 unsigned 類型，所得的結果也會是 unsigned 類型
+C:\Users\tonyf\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,37): error C3861: '__builtin_popcount': 找不到識別項
+C:\Users\tonyf\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,52): error C4146: 一元減號運算子套用 unsigned 類型，所得的結果也會是 unsigned 類型
+C:\Users\tonyf\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,28): error C3861: '__builtin_popcount': 找不到識別項
+C:\Users\tonyf\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(28,64): error C4146: 一元減號運算子套用 unsigned 類型，所得的結果也會是 unsigned 類型
+C:\Users\tonyf\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,22): error C4146: 一元減號運算子套用 unsigned 類型，所得的結果也會是 unsigned 類型
+C:\Users\tonyf\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,51): error C4146: 一元減號運算子套用 unsigned 類型，所得的結果也會是 unsigned 類型

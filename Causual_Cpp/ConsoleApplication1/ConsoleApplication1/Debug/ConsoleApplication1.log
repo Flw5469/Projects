@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+D:\Game\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1,8): fatal error C1190: 找不到 System::Object。缺少 /clr 選項，或缺少標準組件的匯入嗎?
